@@ -10,5 +10,5 @@ Students who pass this course should be able to:
 
 ### Assessment
 
-- [Assignment 1](Assignment%201)
-- [Assignment 2](Assignment%202)
+- [Assignment 1 : Code Coverage](Assignment%201)
+- [Assignment 2 : Client Server Relationship](Assignment%202)
